@@ -6,7 +6,7 @@ Utilizei tecnologias de IA generativas para criar um conteúdo envolvente e din�
 
 ## 🤖 Tecnologias Utilizadas
 - **GPT-4**: Para gerar textos e diálogos da história.
-- **VIDNOZ**: Para criar ilustrações baseadas nas descrições e garvação da voz.
+- **VIDNOZ**: Para criar ilustrações baseadas nas descrições e gravação da voz.
 
 ## 🧐 Processo de Criação
 
