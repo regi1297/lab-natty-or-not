@@ -14,7 +14,7 @@ trazendo uma dimensão futurística ao vídeo.
 ## 🚀 Resultados
 O vídeo é história da aplicação das IAs Generativas.
 
-**[video](C:\Users\regin\OneDrive\Área de Trabalho\Projetos GIT\lab-natty-or-not\projeto\video\)**
+**[video](C:/Users/regin/OneDrive/Área de Trabalho\Projetos GIT/lab-natty-or-not/projeto/video/)**
 
 ## 💭 Reflexão
 Criar uma história interativa com IA foi um desafio interessante. A tecnologia permitiu a geração rápida de conteúdo diversificado, mas garantir 
