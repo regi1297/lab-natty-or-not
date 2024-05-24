@@ -15,7 +15,7 @@ trazendo uma dimensão futurística ao vídeo.
 O vídeo é história da aplicação das IAs Generativas.
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/regi1297/lab-natty-or-not/raw/main/projeto/video/video.mp4" type="video/mp4">
+  <source src="https://github.com/regi1297/lab-natty-or-not/blob/main/projeto/video/V%C3%ADdeo%20sem%20t%C3%ADtulo.mp4" type="V%C3%ADdeo%20sem%20t%C3%ADtulo.mp4">
   Seu navegador não suporta o elemento de vídeo.
 </video>
 
