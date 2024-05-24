@@ -14,10 +14,7 @@ trazendo uma dimensão futurística ao vídeo.
 ## 🚀 Resultados
 O vídeo é história da aplicação das IAs Generativas.
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/regi1297/lab-natty-or-not/blob/main/projeto/video/V%C3%ADdeo%20sem%20t%C3%ADtulo.mp4" type="V%C3%ADdeo%20sem%20t%C3%ADtulo.mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+ - Link do vídeo: [Clique aqui para ver o vídeo](https://github.com/regi1297/lab-natty-or-not/blob/main/projeto/video/V%C3%ADdeo%20sem%20t%C3%ADtulo.mp4)
 
 ## 💭 Reflexão
 Criar uma história interativa com IA foi um desafio interessante. A tecnologia permitiu a geração rápida de conteúdo diversificado, mas garantir 
